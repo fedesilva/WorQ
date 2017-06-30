@@ -1,4 +1,4 @@
-package org
+package com.cosomojo
 
 /** WorQ is a simple job execution framework.
   *
